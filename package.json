@@ -1,0 +1,19 @@
+{
+  "name": "payu",
+  "version": "1.0.0",
+  "description": "primera tarea del spint en la cual realizaremos la logica necesaria para la integración de la pasarela de pago de payU a una landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payU",
+    "JavaScript",
+    "webcheckout"
+  ],
+  "author": "@eduard09 <eduardbarrios0903@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.14"
+  }
+}
